@@ -19,7 +19,7 @@ function showTime() {
 
   document.getElementById("MyClockDisplay").innerText = time;
   document.getElementById("MyClockDisplay").textContent = time;
-  document.getElementById("MyClockDisplay").style.color = "yellow";
+  document.getElementById("MyClockDisplay").style.color = "black";
   document.getElementById("MyClockDisplay").style.textShadow =
     "2px 1px 23px white";
   document.getElementById("MyClockDisplay").style.position = "absolute";
